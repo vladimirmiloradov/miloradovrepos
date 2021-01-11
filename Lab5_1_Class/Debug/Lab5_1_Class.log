@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Lab5_1_Class.vcxproj, Lab_051_Class.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Miloradov_201_351_lab51.cpp
+  matr.cpp
+C:\Users\milor\source\repos\ConsoleApplication1\Lab5_1_Class\matr.cpp(178,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\milor\source\repos\ConsoleApplication1\Lab5_1_Class\matr.cpp(195,31): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\milor\source\repos\ConsoleApplication1\Lab5_1_Class\matr.cpp(199,174): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  Lab5_1_Class.vcxproj -> C:\Users\milor\source\repos\ConsoleApplication1\Debug\Lab_051_Class_and_ReloadFunction.exe

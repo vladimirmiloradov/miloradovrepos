@@ -1,0 +1,3 @@
+﻿  Miloradov_201_351_lab1.cpp
+C:\Users\milor\source\repos\ConsoleApplication1\Lab_01_DataTypes\Miloradov_201_351_lab1.cpp(51,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Lab_01_DataTypes.vcxproj -> C:\Users\milor\source\repos\ConsoleApplication1\Debug\Lab_01_DataTypes.exe
